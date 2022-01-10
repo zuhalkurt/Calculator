@@ -1,0 +1,15 @@
+/Users/zoe/Projects/Calculator/Calculator/bin/Debug/net6.0/Calculator
+/Users/zoe/Projects/Calculator/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/zoe/Projects/Calculator/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/zoe/Projects/Calculator/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/zoe/Projects/Calculator/Calculator/bin/Debug/net6.0/ref/Calculator.dll
+/Users/zoe/Projects/Calculator/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/zoe/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/Users/zoe/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zoe/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/zoe/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/zoe/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/zoe/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/zoe/Projects/Calculator/Calculator/obj/Debug/net6.0/ref/Calculator.dll
+/Users/zoe/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/zoe/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
